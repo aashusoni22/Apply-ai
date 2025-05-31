@@ -1,5 +1,7 @@
 # 🤖 ApplyAI - AI Job Application Assistant
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel)](https://apply-ai-nine.vercel.app/)
+
 A powerful Next.js application that uses AI to analyze resumes against job descriptions, providing intelligent insights and suggestions to help job seekers optimize their applications.
 
 ## ⚡ Features
