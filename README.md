@@ -1,4 +1,4 @@
-# AI Job Application Assistant
+# 🤖 ApplyAI - AI Job Application Assistant
 
 A powerful Next.js application that uses AI to analyze resumes against job descriptions, providing intelligent insights and suggestions to help job seekers optimize their applications.
 
@@ -14,7 +14,7 @@ A powerful Next.js application that uses AI to analyze resumes against job descr
 
 ## 🛠️ Technology Stack
 
-- **Framework**: Next.js 14 with App Router
+- **Framework**: Next.js 15 with App Router
 - **Language**: TypeScript
 - **AI Integration**: OpenAI GPT-4 and Assistants API
 - **Styling**: Tailwind CSS

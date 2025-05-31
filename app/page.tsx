@@ -406,7 +406,7 @@ const HomePage = () => {
           transition={{ duration: 0.6 }}
         >
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 mb-4 leading-tight">
-            AI Job Application Assistant
+            ApplyAI - Resume Analyzer
           </h1>
           <p className="text-gray-300 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed px-4">
             Get smart, AI-powered insights by comparing your resume against job
